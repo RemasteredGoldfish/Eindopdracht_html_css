@@ -6,4 +6,4 @@ wat ik zelf beter kan doen is me tijd indelen(vaak ging ik zelf schaken inplaats
 
 mede-student: lara
 zelf vond ik het wel goed uitzien kwa code en design van het werbsite.
-zlef vond ik ook dat hij het wel iets sneller kon doen kwa tijd maar is alsnog goed gedaa
+zelf vond ik ook dat hij het wel iets sneller kon doen kwa tijd maar is alsnog goed gedaa
