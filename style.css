@@ -1,11 +1,7 @@
-body {
-    background-color:blueviolet;
+ul {
+    list-style: none;
 }
 
-.container {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+.card {
+    display:inline-block;
 }
-
-
